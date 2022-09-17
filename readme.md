@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Welcome to Book My Love!! 
-=======
-# Welcome to Book My Love!!:scream:
->>>>>>> 5ded076f7a91fdb651189d9b5410b96b2c99e10c
 ---
 ## You tell me the summary of your book and I will tell you the genre<br> If I fail I will learn from it and if I pass then you will gain from it<br>
 
