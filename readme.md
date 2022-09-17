@@ -47,8 +47,8 @@ After the requirements are installed open the cmd in the project folder
 
 ## Application scrrenshots
 
-![App Screenshot]()<br>
-![App Screenshot]()
+![App Screenshot](./Code/app1.png)<br>
+![App Screenshot](./Code/app2.png)
 
 
 
