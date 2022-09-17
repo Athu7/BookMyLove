@@ -14,12 +14,12 @@ The summary text is cleaned. Links, Punctutations, whitespace characters are rem
 3. Text Preprocessing <br>
 As a part of pre-processing the cleaned text is converted into vectors using a TF-IDF vectorizer
 4. Model Building<br>
-Currently I have used Multinomilal Naive Bayes and the support vector machine as  the classifiers. 
-5. HyperParameter tuning 
-Gridsearch CV is used to search for the optimiu parameters in svm such as the kernel, C value and alpha.
-6. Evaluation 
+Currently I have tested Multinomilal Naive Bayes and the support vector machine as the classifiers. 
+5. HyperParameter tuning <br> 
+Gridsearch CV is used to search for the optimum parameters in svm such as the kernel, C value and alpha.
+6. Evaluation <br>
 Highest accuracy is obtained from SVM combined with the TF-IDF vectorizer.
-7. App Creation
+7. App Creation<br>
 A simple looking web app is created using a flask framework.
 
 ## Run Locally
