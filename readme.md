@@ -1,5 +1,4 @@
 # Welcome to Book My Love!! 
----
 ## You tell me the summary of your book and I will tell you the genre<br> If I fail I will learn from it and if I pass then you will gain from it<br>
 
 ## Introduction 
